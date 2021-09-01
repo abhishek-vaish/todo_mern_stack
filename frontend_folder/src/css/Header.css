@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: max-content;
+  padding: 5px 40px;
+}
+h3 {
+  font-weight: 600;
+}
+.span__text {
+  color: rgb(255, 89, 89);
+}
+
+.btn__register {
+  border: 1px solid rgb(255, 89, 89);
+  background: transparent;
+  color: rgb(255, 89, 89);
+}
+
+.open {
+  display: none;
+}
