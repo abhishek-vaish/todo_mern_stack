@@ -1,0 +1,13 @@
+{
+    "connection": {
+        "DIALECT": "mysql",
+        "USERNAME": "root",
+        "PASSWORD": "root",
+        "HOSTNAME": "localhost",
+        "PORT": 3306,
+        "DBNAME": "TodoApplication"
+    },
+    "server": {
+        "PORT": "8000"
+    }
+}
